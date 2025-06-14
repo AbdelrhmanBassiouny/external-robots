@@ -1,3 +1,0 @@
-[submodule "fetch_ros"]
-	path = fetch_ros
-	url = https://github.com/ZebraDevs/fetch_ros.git
